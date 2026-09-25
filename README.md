@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at <a href="https://aliamdani.netlify.app">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://ali-amdani-portfolio.vercel.app/">Portfolio</a>
 
 - 💬 Ask me about **React, React Native, JavaScript**
 
